@@ -1,0 +1,6 @@
+@article{REPO-286,
+    author = "Lam, Max WY and Wang, Jun and Huang, Rongjie and Su, Dan and Yu, Dong",
+    journal = "arXiv preprint arXiv:2108.11514",
+    title = "{Bilateral Denoising Diffusion Models}",
+    year = "2021"
+}
